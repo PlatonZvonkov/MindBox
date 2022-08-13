@@ -10,9 +10,9 @@ LEFT JOIN Category ON Product_Category.CategoryId = Category.Id;
 
 
 -
-Визуальная схема базы данных приложена в репозитории файлом - Diagram.png
+Визуальная схема базы данных приложена в репозитории файлом - SQLDiagram.png
 
-Результат выполнения запроса файлом - Executed.jpg
+Результат выполнения запроса файлом - SQLExecuted.jpg
 
 База данных из двух таблиц Product и Category, связь многие-ко-многим через таблицу Product_Category с композитным primary key.
 
