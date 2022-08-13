@@ -1,0 +1,10 @@
+C:\Users\Flip\source\repos\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\Flip\source\repos\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\Flip\source\repos\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\Flip\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.AssemblyReference.cache
+C:\Users\Flip\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flip\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\Flip\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\Flip\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Flip\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\Flip\source\repos\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
