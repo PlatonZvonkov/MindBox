@@ -1,6 +1,10 @@
 # MindBox
-Запрос для получения всех пар включая имена без категорий:
+Задание1:
+/Shapes
+/ShapesTests
 
+Задание2:
+Запрос для получения всех пар включая имена без категорий:
 
 SELECT Product.Name, Category.Name FROM Product
 
